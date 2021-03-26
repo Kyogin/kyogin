@@ -1,16 +1,14 @@
-### Hi there 👋
+name = Matheus
 
-<!--
-**Kyogin/kyogin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+what_i_am = Student
 
-Here are some ideas to get you started:
+age = 21
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+to_locate = Brazil
+
+
+print('\n User name: ', name,'\n About: ', what_i_am, '\n Age: ' age, '\n From: ', to_locate)
+
+time.sleep(1)
+
+print('\n Welcome! :) ')
